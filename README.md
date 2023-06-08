@@ -18,3 +18,16 @@
 <h1 align="center">
   Hi there 👋
 </h1>
+
+---
+
+### :man_technologist: About Me :
+I am a IT Support Technician from Denmark, who dabble a little bit with coding on the side.
+
+- :desktop_computer: I'm working as a IT Field Service Technician and contributing to various task, that involves server administration, user administration and network infrastructure
+
+- :zap: In my free time, I build scripts and programs that help me with automating stuff that I find tideous and time consuming.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :

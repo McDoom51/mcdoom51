@@ -28,6 +28,8 @@ I am a IT Support Technician from Denmark, who dabble a little bit with coding o
 
 - :zap: In my free time, I build scripts and programs that help me with automating stuff that I find tideous and time consuming.
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

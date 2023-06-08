@@ -49,4 +49,4 @@ I am a IT Support Technician from Denmark, who dabble a little bit with coding o
 
 ### :page_with_curl: Projects :
 
-- [![AutoFaceIT]()] <a href="https://github.com/McDoom51/AutoFaceIT"> AutoFaceIT </a>
+- <img height="16" width="16" src="https://cdn.simpleicons.org/faceit/FF5500" /> <a href="https://github.com/McDoom51/AutoFaceIT"> AutoFaceIT </a> - A tool to automatically launch FaceIT anti-cheat when CSGO is launched
